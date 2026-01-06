@@ -6,7 +6,6 @@ A **Hospital Management System (HMS)** designed to streamline and automate hospi
 - **Patient Management:** Register new patients, manage profiles, and track medical histories.
 - **Doctor Management:** Add and manage doctor profiles, specialties, and schedules.
 - **Appointment Scheduling:** Book, update, or cancel appointments with real-time availability.
-- **Billing System:** Automated billing generation, payment tracking, and invoice management.
 - **Medical Records:** Maintain digital records of diagnoses, treatments, and prescriptions.
 - **User Roles:** Secure login system with roles for admins, doctors, and patients.
 
