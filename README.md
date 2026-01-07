@@ -37,6 +37,4 @@ http://localhost/HMS/
 
 5. Login using the provided credentials or create new user accounts.
 
-## Contributing
-Contributions are welcome! Feel free to fork this repository, create a new branch, and submit a pull request with improvements or new features.
 
